@@ -1,1 +1,6 @@
+{
+  "version": "1.0.6",
+  "installer": "",
+  "changelog": "Adding check for update Functionality."
 
+}
