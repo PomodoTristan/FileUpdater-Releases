@@ -1,7 +1,8 @@
 {
-  "version": "1.0.5",
-  "installer": "",
+  "version": "1.0.6",
+  "installer": "https://github.com/PomodoTristan/FileUpdater-Releases/releases/download/v1.0.05-test/FileEditorInstaller1_3_0.exe",
   "changelog": "Adding check for update Functionality."
 
 }
+
 
